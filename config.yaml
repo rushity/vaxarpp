@@ -1,0 +1,6 @@
+app:
+  secret_key: FbyNPnypbq9sHRASSNa36FLojgXhAAPDCU6gGym78888
+  token_expiry_hours: 2
+  upload_folder: uploads
+jwt:
+  algorithm: HS256

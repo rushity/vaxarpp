@@ -1,0 +1,8 @@
+{
+  "search_mode": "whole",
+  "threshold": 5,
+  "requirements": [
+    "Python",
+    "Flask"
+  ]
+}

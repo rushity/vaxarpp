@@ -1,0 +1,10 @@
+{"timestamp": "2025-05-15T18:22:06.466038", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:23:24.747185", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:23:26.153028", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:23:27.369500", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:23:28.380799", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:26:02.071725", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "cannot access local variable 'name' where it is not associated with a value"}
+{"timestamp": "2025-05-15T18:28:59.227025", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "'Document' object has no attribute 'paragraphs'"}
+{"timestamp": "2025-05-15T18:29:00.419595", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "'Document' object has no attribute 'paragraphs'"}
+{"timestamp": "2025-05-15T18:29:01.713382", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "'Document' object has no attribute 'paragraphs'"}
+{"timestamp": "2025-05-15T18:30:22.831962", "type": "ERROR", "status": 500, "line": 112, "message": "UPLOAD_FAILED", "extra": "'Document' object has no attribute 'paragraphs'"}
