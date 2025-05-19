@@ -98,6 +98,7 @@ class ResumeController(MethodView):
             info.pop('text')
             info['score'] = score
             info['status'] = status
+            info['resume_filename'] = filename
 
             with open("candidates.json", "r+") as f:
                 try:
@@ -107,6 +108,7 @@ class ResumeController(MethodView):
                 records.append(info)
                 f.seek(0)
                 json.dump(records, f, indent=2)
+
 
             return jsonify({"message": "Resume processed", "status": status, "score": score})
         except Exception as e:
