@@ -17,7 +17,7 @@ def Delete(data):
     return ctrl.delete(data)
 
 @candidateRoute.route('/candidate/download/<filename>', methods=['GET'])
-@authMiddleware.ValidateToken
+# @authMiddleware.ValidateToken
 def download_resume(data, filename):
     ctrl = CandidateController()
     return ctrl.download_resume(filename)
